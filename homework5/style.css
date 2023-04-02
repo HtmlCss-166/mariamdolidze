@@ -1,0 +1,76 @@
+.text1{color: rgb(192, 111, 111);
+    text-align: center;
+    font-size: 50px;
+    font-family: 'IrishGrover';
+}
+@font-face{font-family: 'IrishGrover';
+font-style: normal;
+src: url(/homework5/IrishGrover-Regular.ttf);}
+.text2{
+    left: 250px;
+    position: absolute;
+    border-radius: 10px;
+    height: 330px;
+    width: 400px;
+    top:140px;
+}
+.text3 {
+    left: 653px;
+    position: absolute;
+    border-radius: 10px;
+    height: 330px;
+    width: 400px;
+    top:140px ;
+}
+.text4{
+    left: 1050px;
+    position: absolute;
+    border-radius: 10px;
+    height: 330px;
+    width: 400px;
+    top: 140px;
+}
+.text5{
+    font-size: 50px;
+    position: absolute;
+    left: 50px;
+    font-weight: 400;
+    line-height: 90px;
+    font-style: italic;
+    top: 450px;
+}
+#sampletable { 
+    border:3px dashed black;
+    left: 50px;
+    height:60px;
+    width: 300px;
+    top:1000px ;
+    position: absolute;
+
+}
+table tr{
+    background-color: rgb(252, 250, 248);
+    color: rgb(8, 8, 7);
+}
+table td{
+    color: #000;
+    border:2px dashed #000;
+    
+}
+.text6{
+    position:absolute;
+    left: 50px;
+    line-height:50px;
+    font-style: italic;
+    top: 800px ;
+}.text7{
+    position: absolute;
+    left: 50px;
+    line-height: 50px;
+    font-style: italic;
+    top: 1050px;
+}
+input{
+    min-height: 25px;
+    top: 1500px;
+}
