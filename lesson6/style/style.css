@@ -1,0 +1,19 @@
+#parisimage {
+    border:solid 5px red;
+    padding: 30px;
+    /* padding: left 30px; */
+    /* padding-left: right 30px; */
+    /* padding-top: 30px; */
+    /* padding-bottom: 30px; */
+    margin: 30px;
+
+    
+    }
+    .testcontent{
+        background-color: aquamarine;
+    }
+    .imagediv {
+        background-color: rgb(24, 24, 228);
+
+    }
+    
